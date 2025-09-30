@@ -1,37 +1,16 @@
-from math import sqrt
+#Приведите по 2-3 своих примера программ для каждой группы программного обеспечения на вашем домашнем компьютере
 
-# а
-x = int(input())
-print(-1 / x ** 2)
+Системное ПО:
+* Microsoft Windows 10
+* драйвер NVIDIA
+* наверное стоят какие-то драйвера на принтер и т.д., но я не знаю названия
 
-# б
-a = int(input())
-b = int(input())
-c = int(input())
-print(a / (b*c))
+Прикладное ПО:
+* Google Chrome
+* Paint.net
+* Telegram
 
-# в
-print((a/b)*c)
-
-# г
-print((a+b)/2)
-
-# д
-print(5,45 * ((a+2*b)/(2-a)))
-
-# е
-print((-b + sqrt(b**2 - 4*a*c)) / 2*a)
-
-# ж
-print((-b + 1/a) / (2/c))
-
-# з
-print(1 / (1 + ((a + b) / 2)))
-
-# и
-print( 1 / (1 + (1 / (2 + (1 / (2 + (3/5)))))))
-
-# к
-m = int(input())
-n = int(input())
-print(2 ** m*n)
+Системы программирования (Инструментальное ПО):
+* Visual Studio Code
+* Git
+* Notepad++
